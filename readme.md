@@ -14,9 +14,5 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=JiangZiyang0120&theme=minimal" />
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/JiangZiyang0120/JiangZiyang0120/main/assets/github-contribution-grid-snake.svg" ></div>
-
-
-<!-- START_SECTION:blog -->
-<a href="https://jiangziyang0120.github.io/" target="_blank">Recent Blog</a>
-<!-- END_SECTION:blog -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
