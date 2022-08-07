@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper Yang</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&lines=stay+hungry%2C+stay+foolish;but+endliss+learning%2C+but+everlasting+pursuing" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&lines=stay+hungry%2C+stay+foolish;but+endliss+learning%2C+but+everlasting+pursuing" alt="Typing SVG",width="160" height="60"/></a></p>
 
 - 🔭 I’m currently studying in [Zhejiang University](https://www.zju.edu.cn/)
 
