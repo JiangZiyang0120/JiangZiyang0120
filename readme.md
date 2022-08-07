@@ -1,7 +1,5 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=B73EF7&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&lines=stay+hungry%2C+stay+foolish" alt="Typing SVG" /></a></p>
-
 <h1 align="center">Hi 👋, I'm Jasper Yang</h1>
-<h3 align="center">But endless learning, but everlasting pursuing</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&lines=stay+hungry%2C+stay+foolish;but+endliss+learning%2C+but+everlasting+pursuing" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently studying in [Zhejiang University](https://www.zju.edu.cn/)
 
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jasper young" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasper young" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jasper-young-200a51247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasper young" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17542595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17542595" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jasper_yang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jasper_yang" height="30" width="40" /></a>
 </p>
