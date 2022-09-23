@@ -7,7 +7,7 @@
 
 - 👯 I’m preparing for postgraduate exam of [Tsinghua University](https://www.tsinghua.edu.cn/)
 
-- 📝 I regularly write articles on [https://jiangziyang0120.github.io/](https://jiangziyang0120.github.io/)
+- 📝 I regularly write articles on [江子扬的星球](https://jzy-planet.com)
 
 - 💬 Ask me about **C++**
 
