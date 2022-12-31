@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently studying in [Zhejiang University](https://www.zju.edu.cn/)
 
-- 🌱 I’m currently learning **912 Basic Comprehensive of Computer Science**
-
-- 👯 I’m preparing for postgraduate exam of [Tsinghua University](https://www.tsinghua.edu.cn/)
-
 - 📝 I regularly write articles on [江子扬的星球](https://jzy-planet.com)
 
 - 💬 Ask me about **C++**
