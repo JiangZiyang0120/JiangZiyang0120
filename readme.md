@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently studying in [Zhejiang University](https://www.zju.edu.cn/)
 
-- 📝 I regularly write articles on [江子扬的星球](https://jzy-planet.com)
-
-- 💬 Ask me about **C++**
+- 💬 I'm interested in **C++**
 
 - 📫 How to reach me **yangzejia0120@gmail.com**
 
