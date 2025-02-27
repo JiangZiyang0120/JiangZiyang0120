@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in [Zhejiang University](https://www.zju.edu.cn/)
 
-- 💬 I'm interested in **C++**
+- 💬 I'm interested in **Machine Learning, DeepLearning**
 
 - 📫 How to reach me **yangzejia0120@gmail.com**
 
